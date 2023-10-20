@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    font-family: SF Pro;
+}
+.widg:hover {
+    transition: 0.5s;
+    color: white;
+    cursor: pointer;
+}
+.widg {
+    padding: ;
+    position: absolute;
+    text-align: center;
+    font-size: 0.8vw;
+}
+#mic1-widg { #topleft
+    left: vw;
+    top: %;
+}
+#mic2-widg { #topmiddle
+    left: vw;
+    top: %;
+}
+#mic3-widg { #topright
+    left: vw;
+    top: %;
+}
+}
+#mic4-widg { #bottomleft
+    left: vw;
+    top: %;
+}
+#mic5-widg { #topmiddle
+    left: vw;
+    top: %;
+}
+#mic6-widg { #topright
+    left: vw;
+    top: %;
+}
